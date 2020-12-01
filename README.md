@@ -1,18 +1,20 @@
 # AI-for-Engineer
 
 Optimization
-  -Hill Climb
-  -Simulated Annealing
-  -Genetic algorithm
+1. Hill Climb
+2. Simulated Annealing
+3. Genetic algorithm
   
 MachineLearning
-  -K-mean clustering
-  -H-clustering
-  -Linear regression
-  -Logistic regression
-  -Decision tree
-  -Naïve Bayes classifier
+1. K-mean clustering
+2. H-clustering
+3. Linear regression
+4. Logistic regression
+5. Decision tree
+6. Naïve Bayes classifier
   
 Deeplearning
-  -Face mask classification
-  -Pneumonia classification
+1. Face mask classification
+2. Pneumonia classification
+  
+Note: open in Google Colab to view contents in each notebook
