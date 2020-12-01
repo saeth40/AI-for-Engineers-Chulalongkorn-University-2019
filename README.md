@@ -5,7 +5,7 @@ Optimization
 2. Simulated Annealing
 3. Genetic algorithm
   
-MachineLearning
+Machine Learning
 1. K-mean clustering
 2. H-clustering
 3. Linear regression
@@ -13,7 +13,7 @@ MachineLearning
 5. Decision tree
 6. Naïve Bayes classifier
   
-Deeplearning
+Deep learning
 1. Face mask classification
 2. Pneumonia classification
   
