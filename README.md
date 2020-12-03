@@ -17,5 +17,6 @@ Machine Learning
 Deep learning
 1. Face mask classification
 2. Pneumonia classification
+3. MNIST and CIFAR10 classification
   
 Note: open in Google Colab to view contents in each notebook
