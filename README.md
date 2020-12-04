@@ -3,8 +3,7 @@
 
 Optimization
 1. Hill Climb
-2. Simulated Annealing
-3. Genetic algorithm
+2. Genetic algorithm
   
 Machine Learning
 1. K-mean clustering
