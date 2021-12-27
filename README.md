@@ -3,6 +3,8 @@
 Optimization
 1. Hill Climb
 2. Genetic algorithm
+
+![](Images/GeneticAlgorithm.png)
   
 Machine Learning
 1. K-mean clustering
