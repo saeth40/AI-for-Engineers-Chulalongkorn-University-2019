@@ -15,10 +15,13 @@ Machine Learning
 ![](Images/KmeanPeople.png)
 
 3. H-clustering
-4. Linear regression
-5. Logistic regression
-6. Decision tree
-7. Naïve Bayes classifier
+
+![](Images/Hclustering.png)
+
+5. Linear regression
+6. Logistic regression
+7. Decision tree
+8. Naïve Bayes classifier
   
 Deep learning
 1. Face mask classification
