@@ -35,7 +35,7 @@ Machine Learning
 ![](Images/NaiveBayes.png)
   
 Deep learning
-1. Face mask classification
+1. Face mask classification (using pretained resnet18 model)
 
 ![](Images/FaceMaskClassification.png)
 
