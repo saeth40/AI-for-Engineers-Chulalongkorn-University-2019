@@ -1,5 +1,4 @@
-# AI-for-Engineer (2100498 Special Problems in Computer Engineering 2)
-# Chulalongkorn University, 2019
+# 2100498 AI-for-Engineer, Chulalongkorn University, 2019
 
 Optimization
 1. Hill Climb
