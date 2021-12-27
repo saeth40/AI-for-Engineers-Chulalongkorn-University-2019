@@ -1,7 +1,10 @@
 # 2100498 AI-for-Engineer, Chulalongkorn University, 2019
 
 Optimization
-1. Hill Climb
+1. Hill Climb (find the minimum h in n-Queen problem)
+
+![](Images/HillClimb.png)
+
 2. Genetic algorithm
 
 ![](Images/GeneticAlgorithm.png)
