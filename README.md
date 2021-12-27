@@ -39,7 +39,7 @@ Deep learning
 
 ![](Images/FaceMaskClassification.png)
 
-3. Pneumonia classification
+3. Pneumonia classification using my own CNN network
 
 ![](Images/PneumoniaClassification.png)
 
