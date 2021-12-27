@@ -1,6 +1,6 @@
 # 2100498 AI-for-Engineer, Chulalongkorn University, 2019
 
-Optimization
+### Optimization
 1. Hill Climb (find the minimum h in n-Queen problem)
 
 ![](Images/HillClimb.png)
@@ -9,7 +9,7 @@ Optimization
 
 ![](Images/GeneticAlgorithm.png)
   
-Machine Learning
+### Machine Learning
 1. K-mean clustering
 
 ![](Images/KmeanPeople.png)
@@ -34,7 +34,7 @@ Machine Learning
 
 ![](Images/NaiveBayes.png)
   
-Deep learning
+### Deep learning
 1. Face mask classification using pretained model (resnet18)
 
 ![](Images/FaceMaskClassification.png)
