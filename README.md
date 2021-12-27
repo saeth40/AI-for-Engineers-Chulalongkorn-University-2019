@@ -23,8 +23,11 @@ Machine Learning
 ![](Images/LinearRegression.png)
 
 7. Logistic regression
-8. Decision tree
-9. Naïve Bayes classifier
+
+![](Images/LogisticRegression.png)
+
+9. Decision tree
+10. Naïve Bayes classifier
   
 Deep learning
 1. Face mask classification
