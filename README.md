@@ -40,6 +40,9 @@ Deep learning
 ![](Images/FaceMaskClassification.png)
 
 3. Pneumonia classification
-4. MNIST and CIFAR10 classification
+
+![](Images/PneumoniaClassification.png)
+
+5. MNIST and CIFAR10 classification
   
 Note: open in Google Colab to view contents in each notebook
