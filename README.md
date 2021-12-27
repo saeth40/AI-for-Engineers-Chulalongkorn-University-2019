@@ -14,23 +14,23 @@ Machine Learning
 
 ![](Images/KmeanPeople.png)
 
-3. H-clustering
+2. H-clustering
 
 ![](Images/Hclustering.png)
 
-5. Linear regression
+3. Linear regression
 
 ![](Images/LinearRegression.png)
 
-7. Logistic regression
+4. Logistic regression
 
 ![](Images/LogisticRegression.png)
 
-9. Decision tree
+5. Decision tree
 
 ![](Images/DecisionTree.png)
 
-11. Naïve Bayes classifier
+6. Naïve Bayes classifier
 
 ![](Images/NaiveBayes.png)
   
@@ -39,12 +39,10 @@ Deep learning
 
 ![](Images/FaceMaskClassification.png)
 
-3. Pneumonia classification using my own CNN network
+2. Pneumonia classification using my own CNN network
 
 ![](Images/PneumoniaClassification.png)
 
-5. MNIST and CIFAR10 classification using my own neuron network
+3. MNIST and CIFAR10 classification using my own neuron network
 
 ![](Images/Cifar10.png)
-  
-Note: open in Google Colab to view contents in each notebook
