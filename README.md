@@ -31,6 +31,8 @@ Machine Learning
 ![](Images/DecisionTree.png)
 
 11. Naïve Bayes classifier
+
+![](Images/NaiveBayes.png)
   
 Deep learning
 1. Face mask classification
