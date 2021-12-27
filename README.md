@@ -11,11 +11,14 @@ Optimization
   
 Machine Learning
 1. K-mean clustering
-2. H-clustering
-3. Linear regression
-4. Logistic regression
-5. Decision tree
-6. Naïve Bayes classifier
+
+![](Images/KmeanPeople.png)
+
+3. H-clustering
+4. Linear regression
+5. Logistic regression
+6. Decision tree
+7. Naïve Bayes classifier
   
 Deep learning
 1. Face mask classification
