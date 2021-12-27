@@ -43,6 +43,8 @@ Deep learning
 
 ![](Images/PneumoniaClassification.png)
 
-5. MNIST and CIFAR10 classification
+5. MNIST and CIFAR10 classification using my own neuron network
+
+![](Images/Cifar10.png)
   
 Note: open in Google Colab to view contents in each notebook
